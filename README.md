@@ -45,14 +45,14 @@ The project is divided into 3 packages:
 ## Execution
 First clone the repository to a location of your choice by running:
 ```
-git clone https://github.com/balde73/sde-FirstAssignment
-cd sde-FirstAssignment
+git clone https://github.com/balde73/introsde-2017-assignment-1.git
+cd introsde-2017-assignment-1
 ```
 Now you are ready to execute
 ```
 ant execute.evaluation
 ```
-To make thing cleaner it is also possible to run a single step of the evaluation like:
+To make thing cleaner it is also possible to run a single step of the evaluation. Remember to run `ant` before to compile classes and download libraries
 ```
 // As default ant compiles and downloads everything needed
 ant
