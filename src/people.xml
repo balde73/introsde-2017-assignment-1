@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person id="1">
+        <firstname>Marco</firstname>
+        <lastname>Tasini</lastname>
+        <birthdate>1974-09-25</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Sprint Running</description>
+            <place>Harena Stadium</place>
+            <startdate>2017-10-12T15:23:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="2">
+        <firstname>Elia</firstname>
+        <lastname>Tasini</lastname>
+        <birthdate>1993-01-02</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Sprint Running</description>
+            <place>Harena Stadium</place>
+            <startdate>2017-09-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="3">
+        <firstname>Maria</firstname>
+        <lastname>Farina</lastname>
+        <birthdate>1988-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Dancing</name>
+            <description>Modern dance for concer</description>
+            <place>M.P. Hellas Teather</place>
+            <startdate>2017-10-12T08:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="4">
+        <firstname>Lisa</firstname>
+        <lastname>Simpson</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Studing</name>
+            <description>Studing with Milhouse</description>
+            <place>S.t. Havenu</place>
+            <startdate>2017-11-10T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="5">
+        <firstname>Erika</firstname>
+        <lastname>Giovinazzi</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Dancing</name>
+            <description>Hip Hop Dance</description>
+            <place>M.P. Hellas Teather</place>
+            <startdate>2017-10-12T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="6">
+        <firstname>Mattia</firstname>
+        <lastname>Affabris</lastname>
+        <birthdate>1996-10-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Ronald Park</place>
+            <startdate>2017-10-12T09:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="7">
+        <firstname>Giorgio</firstname>
+        <lastname>Parisi</lastname>
+        <birthdate>1977-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running for life</description>
+            <place>Ronald Park</place>
+            <startdate>2017-10-14T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="8">
+        <firstname>Laura</firstname>
+        <lastname>Trentini</lastname>
+        <birthdate>1990-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Skiing</name>
+            <description>Skiing for Golden M</description>
+            <place>Siivia, Mount Palua</place>
+            <startdate>2017-10-12T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="9">
+        <firstname>Jessica</firstname>
+        <lastname>Carbonari</lastname>
+        <birthdate>1999-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running at stadium</description>
+            <place>Quercia Stadium</place>
+            <startdate>2017-10-12T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="10">
+        <firstname>Marika</firstname>
+        <lastname>Carbonari</lastname>
+        <birthdate>1998-01-07</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running at Stadium</description>
+            <place>Quercia Stadium</place>
+            <startdate>2017-10-12T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="11">
+        <firstname>Paola</firstname>
+        <lastname>Viviani</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Park Haaris</place>
+            <startdate>2017-11-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="12">
+        <firstname>Giorgia</firstname>
+        <lastname>Viviani</lastname>
+        <birthdate>1991-11-08</birthdate>
+        <activitypreference id="100">
+            <name>Dancing</name>
+            <description>Hip Hop Dance</description>
+            <place>M.P. Hellas Teather</place>
+            <startdate>2017-10-14T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="13">
+        <firstname>Martina</firstname>
+        <lastname>Piccoli</lastname>
+        <birthdate>1999-03-15</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-14T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="14">
+        <firstname>Ivan</firstname>
+        <lastname>Grando</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Skating</name>
+            <description>Skating to the Park</description>
+            <place>Park Harbie</place>
+            <startdate>2017-08-12T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="15">
+        <firstname>Paolo</firstname>
+        <lastname>Minigozzi</lastname>
+        <birthdate>1989-07-20</birthdate>
+        <activitypreference id="100">
+            <name>Skating</name>
+            <description>Skating to the Park</description>
+            <place>Park Harbie</place>
+            <startdate>2017-09-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="16">
+        <firstname>Mark</firstname>
+        <lastname>Tufass</lastname>
+        <birthdate>1990-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Cycling</name>
+            <description>Cycling all day</description>
+            <place>S.t. Renauld</place>
+            <startdate>2017-07-17T15:08:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="17">
+        <firstname>Norbert</firstname>
+        <lastname>Paissan</lastname>
+        <birthdate>1989-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Park Harbie</place>
+            <startdate>2017-09-13T12:44:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="18">
+        <firstname>Giulio</firstname>
+        <lastname>De Loris</lastname>
+        <birthdate>1974-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Sleeping</name>
+            <description>Sleeping at home</description>
+            <place>S.v. Harbin, 5</place>
+            <startdate>2017-10-12T18:50:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="19">
+        <firstname>Alessandro</firstname>
+        <lastname>Pezzini</lastname>
+        <birthdate>1994-09-01</birthdate>
+        <activitypreference id="100">
+            <name>Studing</name>
+            <description>Studing with friends</description>
+            <place>Biology University, Trento</place>
+            <startdate>2017-10-08T10:30:00.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="20">
+        <firstname>Luis</firstname>
+        <lastname>Begghis</lastname>
+        <birthdate>1990-02-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Park Harris</place>
+            <startdate>2017-10-04T08:20:00.0</startdate>
+        </activitypreference>
+    </person>
+</people>
